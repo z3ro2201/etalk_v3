@@ -1,0 +1,8 @@
+{
+	"short_name": "건강상태 자가진단",
+	"name":	"서울천일초등학교 영재교육원 건강상태 자가진단",
+
+	"start_url": "/v3/login",
+	"display": "standalone",
+	"orientation": "portrait"
+}
